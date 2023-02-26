@@ -1,8 +1,28 @@
-### Hi there 👋
+
+
+
+<div align='center'>
+
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=0x4a4d00&theme=radical&locale=fa) <br/> <br/>
+
+<img src="https://www.freepascal.org/pic/logo.gif" Title="FPC" alt="FPC"/>
+
+
+<img src="https://brandeps.com/icon-download/P/Platformio-icon-vector-01.svg" title="PlatformIO" alt="PlatformIO" width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Ardunio" alt="arduino" width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="DotNetCore" alt="DotNetCore" width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="60" height="55"/>
+  
+### ,...
+
 
 <!--
 **0x4A4D00/0x4a4d00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
