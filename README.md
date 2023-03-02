@@ -2,7 +2,7 @@
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=0x4a4d00&theme=radical&locale=fa) <br/> <br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=0x4a4d00&theme=radical&locale=fa&border=EBC652&fire=EB0000&sideLabels=EBC652&background=190322B6&stroke=412E6C)](https://git.io/streak-stats) <br/> <br/>
 
 
   
